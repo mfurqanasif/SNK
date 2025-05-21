@@ -1,0 +1,7 @@
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\SNKWebsite.exe
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\appsettings.Development.json
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\appsettings.json
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\SNKWebsite.dll
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\SNKWebsite.deps.json
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\SNKWebsite.runtimeconfig.json
+D:\neel\SNKWebsiteF\SNKWebsite\SNKWebsite\out\SNKWebsite.pdb
